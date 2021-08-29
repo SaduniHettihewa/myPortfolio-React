@@ -1,12 +1,21 @@
 import React from 'react'
 import './education.css'
 
-function education() {
+function Education() {
     return (
-        <div>
-            Education
-        </div>
+        <div className="Education">
+            <label className="edu-label">Education</label>
+            <div>
+                <br/>
+ University of Moratuwa <br/>
+B.sc (Hons) Information Technology & Management <br/>
+<br/>
+Rajapaksa Central College -Weeraketiya<br/>
+<br/>
+
+</div>
+         </div>
     )
 }
 
-export default education
+export default Education
