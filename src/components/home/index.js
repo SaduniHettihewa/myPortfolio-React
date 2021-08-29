@@ -1,5 +1,5 @@
 import React from 'react'
-import Boady from '../body'
+import Body from '../body'
 import Header from '../header'
 import Footer from '../footer'
 import './home.css'
@@ -11,7 +11,7 @@ function Home() {
             <Header />
         </div>
         <div>
-            <Boady/>
+            <Body/>
         </div>
         <div>
             <Footer/>
