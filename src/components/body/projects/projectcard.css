@@ -1,0 +1,30 @@
+.project-card{
+    flex: 1;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 16px 0px;
+    padding: 8px 0px;
+}
+
+.projectphoto{
+    width: 30%;
+    height: 30%;
+}
+.project-info{
+    margin-right: 24px;
+}
+.tag{
+display: flex;
+max-width: 60%;
+flex-wrap: wrap;
+
+}
+
+.tag-lable{
+    padding: 4px 8px;
+    background-color: aqua;
+    border-radius: 4px;
+    margin-right: 6px;
+    margin-bottom: 4px;
+}

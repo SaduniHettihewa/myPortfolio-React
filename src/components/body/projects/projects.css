@@ -1,12 +1,10 @@
 
 .projects{
-    padding-bottom: 48px;
+  
+    display: flex;
+    flex: 1;
+    flex-direction: column;
 }
-
-
-
-
-
 
 .project-label{
     font-size: 32px;
