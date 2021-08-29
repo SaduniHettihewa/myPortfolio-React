@@ -6,7 +6,10 @@
     margin: 16px 0px;
     padding: 8px 0px;
 }
-
+.title{
+    font-size: 30;
+    font-weight: 600;
+}
 .projectphoto{
     width: 30%;
     height: 30%;
@@ -16,8 +19,10 @@
 }
 .tag{
 display: flex;
-max-width: 60%;
+max-width: 80%;
 flex-wrap: wrap;
+position: relative;
+left: 10%;
 
 }
 
@@ -27,4 +32,18 @@ flex-wrap: wrap;
     border-radius: 4px;
     margin-right: 6px;
     margin-bottom: 4px;
+}
+@media only screen and (max-width:720px){
+    .projectphoto{
+        width: 70%;
+    }
+    .project-info{
+        margin-left: 0px;
+        margin-top: 12px;
+    }
+    .tag{
+       
+        max-width: 100%;
+        
+        }
 }

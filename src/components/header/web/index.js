@@ -10,7 +10,7 @@ function Web() {
                 </a>
             </div>
             <div className="web-options">
-                <a href="#Project">
+                <a href="#Projects">
                 <i class="fi-rr-edit-alt option-icon"></i>Projects
                 </a>
             </div>

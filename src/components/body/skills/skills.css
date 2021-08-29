@@ -1,0 +1,22 @@
+.skills{
+  
+    padding-bottom: 48px;
+}
+
+.skill-label{
+font-size: 32px;
+font-weight: 600;
+color: rgb(19, 184, 184);
+
+}
+
+.nameCard{
+    flex-direction: column;
+    flex: 1;
+    
+}
+.lableTag{
+    font-size: 20px;
+    font-weight: 400;
+}
+

@@ -13,7 +13,7 @@ function Mobile({isOpen,setOpen}) {
                 </a>
             </div>
             <div className="mobile-options">
-                <a href="#Project">
+                <a href="#Projects">
                 <i class="fi-rr-edit-alt option-icon"></i> Projects
                 </a>
             </div>

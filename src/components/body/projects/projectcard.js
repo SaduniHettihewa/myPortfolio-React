@@ -6,7 +6,7 @@ function Projectcard({project}) {
     return (
         <div className="project-card">
             <div className="project-info">  
-            <label>{project.title}</label>
+            <label className="title">{project.title}</label>
             <div>
                <p> {project.about}</p>
             </div>
