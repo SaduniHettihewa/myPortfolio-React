@@ -1,10 +1,10 @@
 .mobile{
     background-color: whitesmoke;
-    height: 100vh;
+    height: 180vh;
     width: 50vw;
     position: absolute;
     right: 0px;
-    background-color: dodgerblue;
+    background-color: rgb(163, 163, 163);
     top: -10px;
     padding: 18px 12px;
     display: flex;
