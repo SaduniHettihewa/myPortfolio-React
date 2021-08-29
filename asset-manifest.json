@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/myPortfolio-React/static/css/main.bac72e7f.chunk.css",
+    "main.js": "/myPortfolio-React/static/js/main.e63e3a4c.chunk.js",
+    "main.js.map": "/myPortfolio-React/static/js/main.e63e3a4c.chunk.js.map",
+    "runtime-main.js": "/myPortfolio-React/static/js/runtime-main.e8eacda9.js",
+    "runtime-main.js.map": "/myPortfolio-React/static/js/runtime-main.e8eacda9.js.map",
+    "static/js/2.f9101857.chunk.js": "/myPortfolio-React/static/js/2.f9101857.chunk.js",
+    "static/js/2.f9101857.chunk.js.map": "/myPortfolio-React/static/js/2.f9101857.chunk.js.map",
+    "static/js/3.2f089cbe.chunk.js": "/myPortfolio-React/static/js/3.2f089cbe.chunk.js",
+    "static/js/3.2f089cbe.chunk.js.map": "/myPortfolio-React/static/js/3.2f089cbe.chunk.js.map",
+    "index.html": "/myPortfolio-React/index.html",
+    "static/css/main.bac72e7f.chunk.css.map": "/myPortfolio-React/static/css/main.bac72e7f.chunk.css.map",
+    "static/js/2.f9101857.chunk.js.LICENSE.txt": "/myPortfolio-React/static/js/2.f9101857.chunk.js.LICENSE.txt",
+    "static/media/SaduniHettihewa.pdf": "/myPortfolio-React/static/media/SaduniHettihewa.28aed2f0.pdf",
+    "static/media/github.png": "/myPortfolio-React/static/media/github.22cfdd1c.png",
+    "static/media/linkedin.png": "/myPortfolio-React/static/media/linkedin.e65fd24a.png",
+    "static/media/medium.png": "/myPortfolio-React/static/media/medium.67d2e4a2.png",
+    "static/media/photo.png": "/myPortfolio-React/static/media/photo.c822563a.png",
+    "static/media/project1.jpeg": "/myPortfolio-React/static/media/project1.2d535e28.jpeg",
+    "static/media/project2.jpeg": "/myPortfolio-React/static/media/project2.da1be794.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e8eacda9.js",
+    "static/js/2.f9101857.chunk.js",
+    "static/css/main.bac72e7f.chunk.css",
+    "static/js/main.e63e3a4c.chunk.js"
+  ]
+}
