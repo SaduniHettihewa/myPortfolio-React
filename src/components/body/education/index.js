@@ -9,10 +9,10 @@ function Education() {
             <label className="edu-label">Education</label>
             <div>
                 <br/>
- University of Moratuwa <br/>
+ <span className="title">University of Moratuwa </span> <br/>
 B.sc (Hons) Information Technology & Management <br/>
 <br/>
-Rajapaksa Central College -Weeraketiya<br/>
+<span className="title">Rajapaksa Central College -Weeraketiya </span><br/>
 <br/>
 
 </div>

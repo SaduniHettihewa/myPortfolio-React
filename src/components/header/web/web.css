@@ -6,8 +6,9 @@
 }
 .web-options{
     font-size: 20px;
-    margin-right:18px;
-    font-weight: 700;
+    margin-right:16px;
+    font-weight: 600;
+    font-family: 'Rampart One', cursive;
 }
 .web-options a{
     text-decoration: none;
@@ -19,7 +20,7 @@
 .option-icon{
     display: flex;
     align-items: center;
-    margin: 4px;
+    margin: 0px;
 }
 .web-options:last-child{
     margin-right: 0px;

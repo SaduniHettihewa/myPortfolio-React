@@ -29,8 +29,9 @@
 }
 .logo{
     display: flex;
-    font-size: 70px;
-    color:  #59a0c4;
+    font-size: 60px;
+    color:  #050505;
+    font-family: 'Rampart One', cursive;
    
            
     font-weight: 800;

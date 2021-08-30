@@ -10,5 +10,11 @@
     font-size: 32px;
     font-weight: 600;
     color: rgb(19, 184, 184);
+    font-family: 'Rampart One', cursive;
     
     }
+    .box {
+        border: 2px solid rgb(9, 109, 155) ;
+        padding: 10px 10px 10px;
+        margin: 60px;
+      }

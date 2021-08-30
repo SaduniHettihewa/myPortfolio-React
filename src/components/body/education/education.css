@@ -7,5 +7,10 @@
 font-size: 32px;
 font-weight: 600;
 color: rgb(19, 184, 184);
+font-family: 'Rampart One', cursive;
 
+}
+.title{
+    font-size: 20px;
+    font-family: 300;
 }

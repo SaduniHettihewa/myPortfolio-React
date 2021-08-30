@@ -9,7 +9,7 @@ function Header() {
     return (
         <div className="header">
         <div className="logo">
-            Saduni Hettihewa
+            Hello !
         </div>
         <div className="menu">
                <div className="web-menu">

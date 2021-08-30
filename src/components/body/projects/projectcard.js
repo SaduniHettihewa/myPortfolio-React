@@ -10,13 +10,14 @@ function Projectcard({project}) {
             <div>
                <p> {project.about}</p>
             </div>
-             </div>  
-                <img src={project.image} className="projectphoto"></img>
-                <div className="tag">
+            <div className="tag">
                    {project.tags.map((tag)=>{
                        return <label className="tag-lable">{tag}</label>
                    })}                 
-            </div>      
+            </div> 
+             </div>  
+                <img src={project.image} className="projectphoto"></img>
+                     
         </div>
         
     )

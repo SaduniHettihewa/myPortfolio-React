@@ -11,10 +11,12 @@ function Projects() {
             <Seperator/>
             <label className="project-label">Projects</label>
             <div>
+                <div className="box">
                {data.map((project)=>{
                   return <Projectcard project={project}/>
                }
                )}
+               </div>
             </div>
         </div>
     )
