@@ -7,18 +7,23 @@ function Skills() {
         <div className="skills">
             <Seperator/>
             <label className="skill-label">Skills</label>
-            <div className="nameCard">
+            <div className="nameCard"></div>
+            <div className="imagelocation" >
+            <img src={require("../../../Assests/skills.jpg").default} className="img"></img>
+            </div>
+            
             <label className="lableTag">HTML,CSS</label>
            <br/>
                 <label className="lableTag">PHP</label>
                 <br/>
                 <label className="lableTag">JavaScript</label>
                 <br/>
-                {/* <img src={require("../../../Assests/react.png").default} className="img"></img> */}
+               
                 <label className="lableTag">ReactJs</label><br/>
                 <label className="lableTag">ReactNative</label>
-                
-            </div>
+               
+
+            
           
         </div>
     )

@@ -1,6 +1,8 @@
 .skills{
-  
-    padding-bottom: 48px;
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+   
 }
 
 .skill-label{
@@ -8,6 +10,7 @@ font-size: 32px;
 font-weight: 600;
 color: rgb(19, 184, 184);
 font-family: 'Rampart One', cursive;
+
 }
 
 .nameCard{
@@ -21,4 +24,11 @@ font-family: 'Rampart One', cursive;
    
     color: #000;
 }
+.img{
+    width: 30%;
+}
+/* .imagelocation{
+  
+    flex-direction: row;
 
+} */
